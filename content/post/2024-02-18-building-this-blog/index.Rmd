@@ -1,0 +1,11 @@
+---
+title: Building this blog
+author: Eva Loaeza Albino
+date: '2024-02-18'
+slug: building-this-blog
+categories: []
+tags: []
+---
+First, I built this blog using the [**blogdown**](https://github.com/rstudio/blogdown) R package and it is deployed via Netlify.
+
+I followed this amazing [R Blogdown Tutorial](https://www.youtube.com/watch?v=x-Ch0-w1UhY&list=PLpZT7JPM8_GbPiX4ibrP7ogl7GyEofZMj&index=5). You can also read this [post](https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/).
