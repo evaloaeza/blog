@@ -16,11 +16,11 @@ menu:
     - name: Home
       url: ""
       weight: 1
-    - name: About
-      url: "about/"
-      weight: 2
     - name: Data
-      url: "data/"
+      url: "/data/"
+      weight: 2
+    - name: Competition
+      url: "/competition/"
       weight: 3
     - name: Tags
       url: "tags/"
