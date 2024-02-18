@@ -1,5 +1,4 @@
 ---
-author: Eva Loaeza Albino
 title: Data
 ---
 Data sources that I encountered during my PhD.

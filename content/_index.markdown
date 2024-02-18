@@ -6,6 +6,4 @@ title: Home
 
 # Welcome to my blog
 
-## _Eva Loaeza Albino_
-
-As I am approaching the end of my PhD student life, I want to create a website
+As I am approaching the end of my PhD student life, I want to create a website where I document all the helpful resources, data, papers, that helped me to navigate my PhD life.
