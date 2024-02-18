@@ -1,2 +1,2 @@
-# edloaeza
+# Blog
 Personal blog
