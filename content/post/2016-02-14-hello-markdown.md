@@ -48,7 +48,7 @@ backticks, because Pandoc can identify and process math expressions.
 
 [^1]: This is because we have to protect the math expressions from being
     interpreted as Markdown.
-
+44
 When creating a new post, you have to decide whether the post format is Markdown
 or R Markdown, and this can be done via the `rmd` argument of the function
 `blogdown::new_post()`, e.g.
