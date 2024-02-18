@@ -1,7 +1,9 @@
 ---
-author: Yihui Xie
-title: About Hugo XMin
+author: Eva Loaeza Albino
+title: Notes to Myself
 ---
+As I am approaching the end of my PhD student life, I want to create a website where I can document all the data, sources, advice, pages, etc., that helped me to navigate my PhD.
+
 
 **XMin** is the first Hugo theme I have designed. The original reason that I wrote it was I needed a minimal example of Hugo themes when I was writing the  [**blogdown**](https://github.com/rstudio/blogdown) book. Basically I wanted a simple theme that supports a navigation menu, a home page, other single pages, lists of pages, blog posts, categories, tags, and RSS. That is all. Nothing fancy. In terms of CSS and JavaScript, I really want to keep them minimal. In fact, this theme does not contain any JavaScript code at all, although on this example website I did introduce some JavaScript code (still relatively simple anyway). The theme does not contain any images, either, and is pretty much a plain-text theme.
 
@@ -83,18 +85,4 @@ I could have added more features to this theme, but I decided not to, since I ha
 
 To fully understand these examples, you have to read [the section on Hugo templates](https://bookdown.org/yihui/blogdown/templates.html) in the **blogdown** book.
 
-# Design philosophy
 
-Lastly, a few words about my design philosophy for this theme: I have been relying on existing frameworks like Bootstrap for years since I'm not really a designer, and I was always scared by the complexity of CSS.
-
-When I started writing this theme, I asked myself, "_What if I just write from scratch?_" No Bootstrap. No Normalize.css. I don't care about IE (life could be so much easier without IE) or inconsistencies among browsers (for personal websites). As long as the theme looks okay in Chrome, Firefox, and Safari, I'm done. Thanks to the simplicity of Markdown, you cannot really produce very complicated HTML, and I think styling the HTML output from Markdown is much simpler than general HTML documents. For example, I do not need to care much about form elements like textareas or buttons.
-
-After I finished this theme, I started to wonder why I'd need `normalize.css` at all. The default appearance of modern browsers actually looks pretty good in my eyes, after I tweak the typeface a little bit.
-
-Compared to inconsistencies across browsers, I care much more about these properties of HTML elements:
-
-- Tables should always be centered, and striped tables are easier to read especially when they are wide. Tables should not have vertical borders.
-- An image should be centered if it is the only child element of a paragraph.
-- The `max-width` of images, videos, and iframes should be `100%`.
-
-I hope you can enjoy this theme. The source code is [on Github](https://github.com/yihui/hugo-xmin). Happy hacking!
