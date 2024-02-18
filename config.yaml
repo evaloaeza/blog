@@ -25,12 +25,10 @@ menu:
     - name: Tags
       url: "tags/"
       weight: 4
-    - name: Subscribe
-      url: "index.xml"
 
 params:
-  description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- {Year} | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+  description: "Notes."
+  footer: "&copy; [Eva Loaeza-Albino](https://evaloaeza.com/) -- {Year} | [Github](https://github.com/evaloaeza)"
 
 markup:
   highlight:
