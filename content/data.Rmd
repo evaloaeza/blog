@@ -1,0 +1,11 @@
+---
+title: Data
+---
+
+Data sources that I encountered during my PhD.
+
+# Health Data
+
+- County-level data on U.S. opioid distributions, demographics, healthcare supply, and healthcare access [here](https://data.mendeley.com/datasets/dwfgxrh7tn/1)
+- National Health and Nutrition Examination Survey [here](https://www.cdc.gov/nchs/nhanes/about_nhanes.htm)
+- Medical Expenditure Panel Survey [here](https://meps.ahrq.gov/mepsweb/about_meps/survey_back.jsp)

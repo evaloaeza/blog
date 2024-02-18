@@ -1,4 +1,4 @@
-baseurl: "/"
+baseurl: "https://evablog.netlify.app/"
 languageCode: "en-us"
 title: "A minimal Hugo website"
 theme: "hugo-xmin"
@@ -19,8 +19,8 @@ menu:
     - name: About
       url: "about/"
       weight: 2
-    - name: Categories
-      url: "categories/"
+    - name: Data
+      url: "data/"
       weight: 3
     - name: Tags
       url: "tags/"
