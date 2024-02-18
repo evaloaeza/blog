@@ -15,5 +15,6 @@ In this section, I will share publicly available information on cases I had the 
 - Illegal agreements with accredited taxi drivers at the AICM [Case](/competition_files/taxis.pdf)
 
 ## Pension Funds
+- Monopolistic practices in the market of retirement fund administrators for workers [Case](/competition_files/afores.pdf)
 
 ## Pharmaceuticals
